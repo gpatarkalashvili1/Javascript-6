@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(145, 27, 255);
+}
+
+.headerdiv{
+    background-color: rgb(54, 54, 54);
+    height: 6rem;
+
+}
+.headerli{
+    font-size: 1.5rem;
+    color: whitesmoke;
+    padding-top: 28px;
+    text-align: center;
+}
+.sectiondiv{
+    width: 20rem;
+    height: 20rem;
+    margin-left: 53rem;
+    margin-top: 16rem;
+}
+.information{
+color: rgb(165, 21, 21);
+font-size: 2rem;
+text-align: center;
+margin-bottom: 10px;
+}
+.click{
+    width: 15rem;
+    height: 2rem;
+    margin-top: 4px;
+    margin-left: 10px;
+
+}
+.click:hover{
+    color: rgb(70, 70, 70);
+    border-radius: 5px;
+    transition: 0.2s;
+}
+.input{
+    width: 20rem;
+    height: 3rem;
+    font-size: 1rem;
+    border-radius: 2px 2px;
+}
+
+.ulclass{
+    font-size: 18px;
+    color: rgb(43, 43, 43);
+    text-align: center;
+}
+.delete-all{
+ width: auto;
+ height: 2rem;
+}
+.delete-all:hover{
+    color: rgb(70, 70, 70);
+    border-radius: 5px;
+    transition: 0.2s;
+}
